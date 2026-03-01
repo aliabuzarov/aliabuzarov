@@ -6,7 +6,7 @@ I enjoy building websites.
 
 I build whatever comes to my mind and i found it quite entertaining.
 
-My main tech stack consists of Django, RESTapi, PostgreSQL and Docker. Favorite tools are Cursor and v0 (Fav AI agent is Claude Opus 4.6).
+My main tech stack consists of Django, REST API, PostgreSQL and Docker. Favorite tools are Cursor and v0 (Fav AI agent is Claude Opus 4.6).
 
 Occasionally, I vibe code, mainly utilizing Antigravity.
 
@@ -18,6 +18,7 @@ Fun facts:
 * I love anime
 * I am a gymrat
 * I can bench 110 kg
+* I need tons of frontend templates
 <!--
 **aliabuzarov/aliabuzarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

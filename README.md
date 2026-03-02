@@ -19,6 +19,7 @@ Fun facts:
 * I am a gymrat
 * I can bench 110 kg
 * I need tons of frontend templates
+* I enjoy reading books
 <!--
 **aliabuzarov/aliabuzarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

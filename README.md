@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ali, a backend developer in Azerbaijan and a computer engineering student at Baku Higher Oil School.
+I am Ali, I am 17 and a backend developer in Azerbaijan and a computer engineering student at Baku Higher Oil School.
 
 I enjoy building websites.
 

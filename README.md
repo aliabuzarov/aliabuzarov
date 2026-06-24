@@ -10,7 +10,7 @@ My main tech stack consists of Django, REST API, PostgreSQL and Docker. Favorite
 
 Occasionally, I vibe code, mainly utilizing Antigravity.
 
-I'm currently working on [SudoBlog](https://github.com/aliabuzarov/sudoblog). Personal blog website, which i post about my coding experiences.
+I'm currently working on [Teknofest Project](https://github.com/aliabuzarov/Teknofest-AI). Personal blog website, which i post about my coding experiences.
 
 If you want to reach me, check my [LinkedIn profile](https://www.linkedin.com/in/ali-abuzarov-ba4504382/).
 

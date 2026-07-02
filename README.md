@@ -24,10 +24,6 @@ Occasionally, I vibe code, mainly utilizing Antigravity.
 I'm currently working on [Teknofest Project](https://github.com/aliabuzarov/Teknofest-AI). Making an AI workflow.
 
 If you want to reach me, check my [LinkedIn profile](https://www.linkedin.com/in/ali-abuzarov-ba4504382/).
-If you want to reach me, check my LinkedIn profile \n 
-<a href="https://www.linkedin.com/in/ali-abuzarov-ba4504382/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
 
 Fun facts:
 * I love anime
